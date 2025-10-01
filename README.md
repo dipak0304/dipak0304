@@ -21,6 +21,10 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 [![Gmail](https://img.shields.io/badge/Gmail-dipakbohara019@gmail.com-red?style=social&logo=gmail)](mailto:dipakbohara019@gmail.com)
 
 ---
+## 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
 
 ## ⚡ Skills
 
