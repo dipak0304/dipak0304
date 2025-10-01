@@ -39,6 +39,11 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0304&layout=compact)
 
+---
+
+## 🌐 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/dipak0304/count.svg)
+
 
 
 
