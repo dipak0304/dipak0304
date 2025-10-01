@@ -28,7 +28,8 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0304&layout=compact)
 
-![Build Status](https://github.com/dipak0304/repo/workflows/CI/badge.svg)
+![Visitor Map](https://github.com/dipak0304/dipak0304/blob/main/visitors.svg)
+
 
 
 
