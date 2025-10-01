@@ -3,6 +3,13 @@
 ## 🚀 About Me
 I'm a developer working on projects like ecommerce apps, web development, and DSA practice.  
 
+
+## 🎮 Hobbies & Fun
+- Gaming 🎮
+- Photography 📸
+- Traveling 🌏
+- Coding challenges 💻
+
 ---
 
 
