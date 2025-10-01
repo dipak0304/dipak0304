@@ -1,8 +1,25 @@
-<h1 align="center"> Hi, I'm Dipak Bohara 👋 </h1>
+<h1 align="center"> 
+  Hi, I'm Dipak Bohara 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  🚀 Full-Stack Developer | 💡 Problem Solver | 🌐 Open Source Enthusiast
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/Cloud-Vercel-black?style=for-the-badge&logo=vercel">
+</p>
+
+---
+
+<p align="center">
+  🌟 Welcome to my GitHub profile! 🌟  
+</p>
+
 
 
 ## 🚀 About Me
