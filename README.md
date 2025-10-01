@@ -11,7 +11,7 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dipak0304-black?style=social&logo=github)](https://github.com/dipak0304)
 
-[![Gmail](https://img.shields.io/badge/Gmail-dipak@example.com-red?style=social&logo=gmail)](mailto:dipakbohara019@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dipakbohara019@gmail.com-red?style=social&logo=gmail)](mailto:dipakbohara019@gmail.com)
 
 ---
 
