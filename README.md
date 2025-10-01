@@ -5,16 +5,7 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 
 ---
 
-## 🏆 GitHub Badges
 
-![Developer](https://img.shields.io/badge/Developer-Dipak%20Bohara-blue?style=social&logo=github)
-![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Contributor-green)
-![Starstruck](https://img.shields.io/badge/Starstruck-100%2B%20Stars-yellow)
-
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Fast%20Issue%20Closer-red)
-
----
 
 ## 📫 Connect with Me
 
