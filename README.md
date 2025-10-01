@@ -42,7 +42,8 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 ---
 
 ## 🌐 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/dipak0304/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=dipak0304&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
