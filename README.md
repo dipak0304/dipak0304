@@ -11,7 +11,7 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 ![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue)
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Contributor-green)
 ![Starstruck](https://img.shields.io/badge/Starstruck-100%2B%20Stars-yellow)
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-Issues-opened-orange)
+
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-Fast%20Issue%20Closer-red)
 
 ---
@@ -19,8 +19,8 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dipak0304-black?style=social&logo=github)](https://github.com/dipak0304)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipak%20Bohara-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/dipak-bohara)
-[![Gmail](https://img.shields.io/badge/Gmail-dipak@example.com-red?style=social&logo=gmail)](mailto:dipak@example.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-dipak@example.com-red?style=social&logo=gmail)](mailto:dipakbohara019@gmail.com)
 
 ---
 
