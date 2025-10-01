@@ -4,21 +4,11 @@
 </h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 💡 Problem Solver | 🌐 Open Source Enthusiast
+  <a href="https://github.com/dipak0304">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Lifelong+Learner">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Cloud-Vercel-black?style=for-the-badge&logo=vercel">
-</p>
-
----
-
-<p align="center">
-  🌟 Welcome to my GitHub profile! 🌟  
-</p>
 
 
 
