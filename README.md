@@ -55,6 +55,9 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 ## 🌐 Visitor Count
 ![Profile views](https://komarev.com/ghpvc/?username=dipak0304&label=Profile%20views&color=0e75b6&style=flat)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thegamere&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)
+
+
 
 
 
