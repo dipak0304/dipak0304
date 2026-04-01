@@ -49,7 +49,7 @@ I'm a developer working on projects like ecommerce apps, web development, and DS
 
 ![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipak0304&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Visitor Count
